@@ -1,71 +1,27 @@
-# Getting Started with Create React App
+# Overview
+A personal website built using React, featuring information about me, my background, and the projects I’ve worked on. It also includes details about my tech stack and provides a way to contact me.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Important Note
+My website is a work in progress. I am treating it as a learning experience, with the current goal of mastering the website’s structure, understanding how its components interact, and exploring additional features and sections. Future efforts will focus on enhancing its aesthetics.
 
-## Available Scripts
+# Goals
 
-In the project directory, you can run:
+I have two main goals for this project:
+* **Learn Frontend Technologies:** To deepen my understanding of React, JavaScript, HTML, and CSS.
+* **Enhance Aesthetics and Showcase Work:** To focus on the visual design and use the site as a platform to display my projects and achievements.
 
-### `yarn start`
+Before starting this project, I watched several tutorials on frontend technologies and practiced independently. After gaining a foundational understanding, I followed a tutorial on freeCodeCamp to set up a template for my personal website. I then began customising the template, which can be broadly categorised into the following areas:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* **Components**: I familiarised myself with how the components are structured to build the website and made adjustments as needed. With my experience in other frameworks such as Django and Flask, I was already familiar with the concept of how components interact with different parts of the code, which allowed me to implement several changes effectively.
+* **Styling**: I added and optimised images to ensure they were responsive. I also adjusted the colours, fonts, sizes, and layout of various sections on the page. Additionally, I set up internal links and connecting buttons at the top of the page to different sections below.
+* **GitHub Pages**: I plan to host my website on GitHub Pages and am currently in the process of setting this up. For now, I am reviewing the site on my local device.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
+# Languages
+* JavaScript
+* HTML
+* CSS
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# my-portfolio
+# Next Steps
+Currently, the CSS is embedded within the same files as the JavaScript content. Based on feedback, I am exploring a more effective approach by moving the CSS to a separate file and linking it with the relevant components. I am researching the best practices for this restructuring and also plan to host the website on GitHub Pages.
