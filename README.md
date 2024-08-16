@@ -4,7 +4,7 @@ A personal website built using React, featuring information about me, my backgro
 # Important Note
 My website is a work in progress. I am treating it as a learning experience, with the current goal of mastering the website’s structure, understanding how its components interact, and exploring additional features and sections. Future efforts will focus on enhancing its aesthetics.
 
-You can view my current portfolio here: https://zig-182.github.io/my-react-portfolio/
+You can view my website here: https://zig-182.github.io/my-react-portfolio/
 
 # Goals
 
