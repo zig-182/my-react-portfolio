@@ -18,7 +18,7 @@ export default function Navbar() {
             Portfolio
           </a>
           <a href="#skills" className="mr-5 hover:text-white">
-            Skills
+            Tech Stack
           </a>
           <a href="#contact" className="mr-5 hover:text-white">
             Contact
