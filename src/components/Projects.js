@@ -12,7 +12,7 @@ export default function Projects() {
             My Portfolio
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-          Since refocusing my career on coding, I have been dedicated to learning Python and expanding my skill set. Recently, I’ve explored libraries such as BeautifulSoup, Flask, and Django, as well as front-end technologies such as CSS, JavaScript, and React. Hover over the image below to learn more about each project.
+          Since refocusing my career on coding, I have been dedicated to learning Python and expanding my skill set. Recently, I’ve explored libraries such as Beautiful Soup, Flask, and Django, as well as front-end technologies such as CSS, JavaScript, and React. Hover over the image below to learn more about each project.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
