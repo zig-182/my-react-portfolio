@@ -71,6 +71,10 @@ export default function Contact() {
             Get in Touch
           </h2>
           <p className="leading-relaxed mb-5">
+            ** Section Under Maintenance **
+          </p>
+          <br></br>
+          <p className="leading-relaxed mb-5">
             Feel free to write me a message below if you want to connect, learn more about me, or even test if my form works!
           </p>
           <div className="relative mb-4">
