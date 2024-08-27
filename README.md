@@ -4,7 +4,7 @@ A personal website built using React, featuring information about me, my backgro
 # Important Note
 My website is a work in progress. I am treating it as a learning experience, with the current goal of mastering the website’s structure, understanding how its components interact, and exploring additional features and sections. Future efforts will focus on enhancing its aesthetics.
 
-You can view my website here: https://zig-182.github.io/my-react-portfolio/
+You can view my website here: https://zig-182-react-portfolio.netlify.app/
 
 # Goals
 
@@ -16,7 +16,6 @@ Before starting this project, I watched several tutorials on frontend technologi
 
 * **Components**: I familiarised myself with how the components are structured to build the website and made adjustments as needed. With my experience in other frameworks such as Django and Flask, I was already familiar with the concept of how components interact with different parts of the code, which allowed me to implement several changes effectively.
 * **Styling**: I added and optimised images to ensure they were responsive. I also adjusted the colours, fonts, sizes, and layout of various sections on the page. Additionally, I set up internal links and connecting buttons at the top of the page to different sections below.
-* **GitHub Pages**: I am currently hosting my website on GitHub Pages and familiarising myself with its features.
 
 
 # Languages
